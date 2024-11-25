@@ -12,5 +12,7 @@
 - 通过 Reanimated 库实现了动画效果。
 - 显示两个按钮，一个用于上一页，一个用于下一页。
 
-<img src="./assets//home1.jpg" width="280px" alt="" />
-<img src="./assets//home2.jpg" width="280px" alt="" />
+<p>
+<img src="./assets//home1.jpg" width="280" alt="" />
+<img src="./assets//home2.jpg" width="280" alt="" />
+</p>
